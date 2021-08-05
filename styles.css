@@ -1,0 +1,29 @@
+.menu{
+display:flex;
+background-color: black;
+justify-content: space-between;
+font-size: 30px;
+font-family: cursive;
+font-weight: 400;
+color: blanchedalmond;
+}
+body{
+background-color: whitesmoke;   
+    
+}
+.grid{
+display:flex;
+flex-wrap:wrap;
+font-family: cursive;
+}
+.grid img{
+border-radius: 50px;
+border:2px solid black; 
+}
+.languages {
+border-radius: 20px;
+background-color: white;
+width: 310px;  
+font-family: fantasy;
+  
+}
